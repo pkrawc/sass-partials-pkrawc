@@ -1,0 +1,16 @@
+{
+  "name": "sass-partials-pkrawc",
+  "version": "0.0.1",
+  "authors": [
+    "Patrick Krawczykowski <pkrawz@gmail.com>"
+  ],
+  "main": "bower.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
