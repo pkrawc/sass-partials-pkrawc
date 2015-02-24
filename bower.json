@@ -4,7 +4,10 @@
   "authors": [
     "Patrick Krawczykowski <pkrawz@gmail.com>"
   ],
-  "main": "bower.js",
+  "main": [
+    "partials/_grid-settings.scss",
+    "partials/_typography.scss"
+    ],
   "license": "MIT",
   "ignore": [
     "**/.*",
